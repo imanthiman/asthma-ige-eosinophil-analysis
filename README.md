@@ -50,7 +50,7 @@ Childhood asthma is a complex, prevalent respiratory disease worldwide. Exacerba
 ## How to Use
 
 1. Clone the repository.
-2. Open the notebook `notebooks/asthma_analysis.ipynb`.
+2. Open the notebook `notebooks/asthma_summary_analysis.ipynb`.
 3. Follow step-by-step analysis cells.
 4. Modify or extend analyses as needed.
 
