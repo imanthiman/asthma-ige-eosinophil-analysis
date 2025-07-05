@@ -58,4 +58,4 @@ Childhood asthma is a complex, prevalent respiratory disease worldwide. Exacerba
 
 Iman Taheri, MD  
 Aspiring Clinical Data Analyst  
-[GitHub](https://github.com/imanthiman) | [LinkedIn]([https://linkedin.com/in/imanthiman](https://www.linkedin.com/in/iman-taheri-3bb841369/))
+[GitHub](https://github.com/imanthiman) | [LinkedIn]([https://linkedin.com/in/imanthiman])
